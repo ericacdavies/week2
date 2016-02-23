@@ -1,0 +1,17 @@
+/* css */
+body{
+		background:#ccffcc;
+		font-family:"palatino";
+		font-size: 6;
+}
+h1{
+	color:#088da5;
+	font-family: "optima";
+	font-size:5;
+}
+p{
+	color:#009a82;
+}
+hr{
+	border-color: #8d9cba
+}
