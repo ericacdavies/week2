@@ -1,17 +1,37 @@
-/* css */
+/* 
+Website: My Programming Site v.1
+Author: Erica Davies
+*/
+
 body{
-		background:#ccffcc;
-		font-family:"palatino";
+		background:#B2997F;
+		font-family:"Century Gothic", Book Antiqua, Georgia;
 		font-size: 6;
 }
 h1{
 	color:#088da5;
-	font-family: "optima";
-	font-size:5;
+	font-family: "Optima", Calisto MT, Trebuchet MS;
+	font-size: 5;
+	font-weight: bold;
 }
 p{
-	color:#009a82;
+	color:#FFE7CE;
+	font-family: "Futura", Book Antiqua, Georgia;
+	font-size: 3;
+	font-weight: normal;
 }
 hr{
 	border-color: #8d9cba
+	border-style: dashed;
+}
+#content{
+	width:600px;
+	border-width:2px;
+	border-color:#FFF3E8;
+	border-style:dash;
+	background-color:#CEF4FF; 
+	margin:0 auto;
+	padding:20px;
+
+
 }
